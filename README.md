@@ -38,3 +38,7 @@ vi messeges/"my messege.txt"
 ```
 ./run.sh
 ```
+
+### Demo
+
+[thankd demo](https://youtu.be/lqGP-HA4HYQ)
