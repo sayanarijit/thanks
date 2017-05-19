@@ -1,6 +1,6 @@
 # thanks
 
-Greet best wishes to special people in your life the developer way.
+Greet best wishes to special people in your life the developer way. [See demo](https://youtu.be/lqGP-HA4HYQ)
 
 ## How to install
 
@@ -38,7 +38,3 @@ vi messeges/"my messege.txt"
 ```
 ./run.sh
 ```
-
-### Demo
-
-![thanks demo](https://youtu.be/lqGP-HA4HYQ)
