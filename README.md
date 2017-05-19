@@ -1,6 +1,6 @@
 # thanks
 
-Greet wishes to special people in your life the developer way.
+Greet best wishes to special people in your life the developer way.
 
 ## How to install
 
