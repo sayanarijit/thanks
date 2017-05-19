@@ -41,4 +41,4 @@ vi messeges/"my messege.txt"
 
 ### Demo
 
-[thankd demo](https://youtu.be/lqGP-HA4HYQ)
+![thanks demo](https://youtu.be/lqGP-HA4HYQ)
