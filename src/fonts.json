@@ -1,0 +1,19 @@
+{
+	"opening": "nscript",
+	"closing": "3d_diagonal",
+	"names": "italic",
+	"messeges": [
+		"stampate",
+		"stampatello"
+	],
+	"colors": [
+		"grey",
+		"red",
+		"green",
+		"yellow",
+		"blue",
+		"magenta",
+		"cyan",
+		"white"
+	]
+}
