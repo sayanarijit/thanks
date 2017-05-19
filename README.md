@@ -1,6 +1,8 @@
 # thanks
 
-Greet best wishes to special people in your life the developer way. [See demo](https://youtu.be/lqGP-HA4HYQ)
+### Greet best wishes to special people in your life the developer way. [See demo](https://youtu.be/lqGP-HA4HYQ)
+
+![thanks pic](https://github.com/sayanarijit/thanks/blob/master/thanks.png?raw=true)
 
 ## How to install
 
